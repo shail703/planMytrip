@@ -56,8 +56,7 @@ app.use(hpp({
         'ratingsQuantity',
         'maxGroupSize',
         'difficulty',
-        'price',
-        
+        'price',        
     ]
 }));
 
